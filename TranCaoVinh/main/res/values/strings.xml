@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TDC Music</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_name_song">name song</string>
+    <string name="hint_author">Author</string>
+    <string name="name">List Name</string>
+    <string name="info">number of songs</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_text_input">Add My List</string>
+    <string name="search_text_input">Search</string>
+    <string name="lblName">Input Name</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_Add">Add new</string>
+    <string name="btn_ok">OK</string>
+    <string name="mgs_end">The End</string>
+    <string name="mgs_first">this is first question</string>
+    <string name="mgs_element_exist">this question is exist</string>
+    <string name="mgs_succ">successful</string>
+    <string name="mgs_notAll">some questions can not save</string>
+    <string name="near_by_decript">Add My List</string>
+    <string name="set_schedule_decript">Delete</string>
+</resources>

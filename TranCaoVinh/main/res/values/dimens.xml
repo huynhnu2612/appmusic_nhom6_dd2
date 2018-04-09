@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">5dp</dimen>
+    <dimen name="nav_header_height">180dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_plus_margin_right">20dp</dimen>
+    <dimen name="fab_child_margin_right">28dp</dimen>
+    <dimen name="fab_schedule_margin_bot">110dp</dimen>
+    <dimen name="fab_nearby_margin_bot">165dp</dimen>
+    <dimen name="fab_lme_margin_bot">100dp</dimen>
+    <dimen name="fab_plus_margin_bot">30dp</dimen>
+    <dimen name="press_tranlatez">15dp</dimen>
+    <dimen name="text_fab_child_margin_right">80dp</dimen>
+    <dimen name="text_pading_lr">5dp</dimen>
+    <dimen name="text_decript_nearby_margin_bot">176dp</dimen>
+    <dimen name="text_decript_lcate_margin_bot">228dp</dimen>
+    <dimen name="text_decript_schedule_margin_bot">120dp</dimen>
+</resources>
